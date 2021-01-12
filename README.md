@@ -23,4 +23,4 @@ Stationary entities - which stay in one place throughout the game.
 • Wormhole, blackhole, blue giant and yellow dwarf (where blue giant and yellow dwarf are
 considered to also be a star object).
 
-Entities all have different behaviours which change the mechanics of the game. Software design patterns used (composite, singleton, visitor, command)
+Entities all have different behaviours which change the mechanics of the game. Software design patterns used (composite, singleton, visitor, command, observer, lazy initialization).
